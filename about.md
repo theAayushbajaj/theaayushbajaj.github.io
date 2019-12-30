@@ -17,7 +17,7 @@ After that I did some personal projects mainly involved in research, you can fin
 Did some internships too which were an amazing experience.
 
 Currently I do freelance development for few companies and participate in kaggle and AnalyticsVidhya Competitions.
-Connect with me if you want to know more (that was juts 1%)
+Connect with me if you want to know more (that was just 1%)
 
 ### Contact me
 
