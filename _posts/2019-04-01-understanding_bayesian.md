@@ -19,8 +19,8 @@ The detailed explanation of the above problem is described in here:
 
 Now we head towards thinking how well the algorithm performs in certain conditions and how poor in other conditions-
 
-<center><img src = "https://github.com/theAayushbajaj/theaayushbajaj.github.io/blob/master/_posts/img/bayesian/note-1.png" width = "500"></center>
-<center><img src = "https://github.com/theAayushbajaj/theaayushbajaj.github.io/blob/master/_posts/img/bayesian/note-2.png" width = "500"></center>
+![note-1](https://github.com/theAayushbajaj/theaayushbajaj.github.io/blob/master/_posts/img/bayesian/note-1.png)
+![note-2](https://github.com/theAayushbajaj/theaayushbajaj.github.io/blob/master/_posts/img/bayesian/note-2.png)
 
 
 **Pros**:
@@ -50,8 +50,7 @@ When attribute values are continuous, an assumption is made that the values asso
 
 If in our data, an attribute say “x” contains continuous data. We first segment the data by the class and then compute mean and Variance of each class.
 
-<center><img src = "https://github.com/theAayushbajaj/theaayushbajaj.github.io/blob/master/_posts/img/bayesian/note-3.png" width = "500"></center>
-
+![note-3](https://github.com/theAayushbajaj/theaayushbajaj.github.io/blob/master/_posts/img/bayesian/note-3.png)
 
 **MultiNomial Naive Bayes**
 
