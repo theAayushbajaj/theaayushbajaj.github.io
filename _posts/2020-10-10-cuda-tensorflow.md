@@ -1,6 +1,6 @@
 ---
 title: "Solving Cuda 10.1,10.2 missing library problem with Tensorflow 2"
-date: 2018-12-17
+date: 2020-10-10
 permalink: /posts/2020/10/blog-post-8/solving-cuda-tf2
 redirect_from: /posts/2020/10/blog-post-8/
 tags:
@@ -24,4 +24,4 @@ Note that this is just a fix to get things working. Please apply symlinks carefu
 sudo ln -s /usr/local/cuda-10.2/targets/x86_64-linux/lib/libcublas.so.10.1 /path/to/missing-files/libcublas.so.10.0
 ```
 
-It is advised to store the missing files seperately in a directory and create symlinks accordingly, it'll help you idenitfy the linked files in the future. Find them missing binaries [here](https://github.com/superjamie/lazyweb/wiki/Raspberry-Pi-3.5mm-Audio-Hiss).
+It is advised to store the missing files seperately in a directory and create symlinks accordingly, it'll help you idenitfy the linked files in the future. Find them missing binaries [here](https://github.com/theAayushbajaj/theaayushbajaj.github.io/tree/master/blog_files/missing_files_cuda101).
